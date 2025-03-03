@@ -178,8 +178,8 @@ st.markdown(
 
         /* Conversion result */
         .stSuccess {
-            background-color: #b5bbc9;
-            color: #585e6c;
+            background-color: red;
+            color: white;
             font-size: 18px;
             font-weight: bold;
             padding: 15px;
